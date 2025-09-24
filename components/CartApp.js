@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-/* ================= BÀI 3: Giỏ hàng ================= */
+
 function Product({ product, addToCart }) {
     return (
         <div>
