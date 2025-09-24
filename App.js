@@ -1,8 +1,8 @@
 import TodoList from "./components/TodoList";
 import ColorPicker from "./components/ColorBox";
 import CartApp from "./components/CartApp";
-import PostApp from "./components/PostApp";
-import QuizApp from "./components/QuizApp";
+import PostApp from "./components/PostApp"
+import QuizApp from "./components/QuizApp"
 
 function App() {
   return (
